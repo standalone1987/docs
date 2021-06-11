@@ -5,7 +5,7 @@ versions:
   free-pro-team: '*'
   enterprise-server: '*'
   github-ae: '*'
-children:
+standalone:Overview 
   - /about-the-graphql-api
   - /public-schema
   - /schema-previews
