@@ -4,7 +4,7 @@ intro: 'You can use the {% data variables.product.prodname_dotcom %} GraphQL API
 shortTitle: GraphQL API
 redirect_from:
   - /v4
-versions:
+versions:10:11
   free-pro-team: '*'
   enterprise-server: '*'
   github-ae: '*'
